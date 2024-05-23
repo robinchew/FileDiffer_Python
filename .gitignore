@@ -1,4 +1,6 @@
-venv
+.venv
 __pycache__
 SS
 .vscode
+_build
+rebar3.crashdump
